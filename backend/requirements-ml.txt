@@ -1,0 +1,5 @@
+# Optional: DeBERTa detector inference + sentence-transformers embeddings for the RAG bot.
+# (Training additionally uses ml/requirements.txt.)
+torch>=2.2
+transformers>=4.40
+sentence-transformers>=3.0

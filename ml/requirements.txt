@@ -1,0 +1,5 @@
+# Extra dependencies for dataset preparation + training (Colab/Kaggle T4 or local GPU).
+-r ../backend/requirements.txt
+-r ../backend/requirements-ml.txt
+datasets>=2.19
+huggingface_hub>=0.23
